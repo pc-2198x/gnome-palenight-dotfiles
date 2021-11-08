@@ -3,9 +3,9 @@ This theme is inspired by the colors used in [the Juno palenight GTK theme by El
 
 
 <img src="main_palenight.png"/>
-* * *
+
 <img src="ulauncher_palenight.png"/>
-* * *
+
 <img src="nvchad_palenight.png"/>
 
 
